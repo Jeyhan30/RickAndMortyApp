@@ -72,5 +72,5 @@ Berikut adalah beberapa tangkapan layar dari aplikasi:
 <img src="app/src/main/assets/gambar1.jpg" alt="Screenshot 1" width="300"> <img src="app/src/main/assets/gambar2.jpg" alt="Screenshot 1" width="300">
 <img src="app/src/main/assets/gambar3.jpg" alt="Screenshot 1" width="300">
 
-##APK link:
+## APK link:
 https://drive.google.com/drive/folders/19106fbFzffWpsGv7aYSncv8Ll4M2FdOt?usp=sharing
