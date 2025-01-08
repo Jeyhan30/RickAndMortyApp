@@ -69,7 +69,7 @@ app/
 ## Screenshot
 Berikut adalah beberapa tangkapan layar dari aplikasi:
 
-<img src="assets/gambar1" alt="Screenshot 1" width="300">
+<img src="app/src/main/assets/gambar1.jpg" alt="Screenshot 1" width="300">
 <img src="assets/Gambar%20WhatsApp%202025-01-08%20pukul%2010.37.37_39a6a6c0.jpg" alt="Screenshot 2" width="300">
 <img src="assets/Gambar%20WhatsApp%202025-01-08%20pukul%2010.37.37_a5e6886d.jpg" alt="Screenshot 3" width="300">
 
