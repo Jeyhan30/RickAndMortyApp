@@ -35,22 +35,6 @@ Aplikasi ini menggunakan **Clean Architecture** yang terdiri dari tiga lapisan u
 - **Gambar:** Coil
 - **Testing:** JUnit, Espresso
 
-## Instalasi
-
-1. Clone repository ini:
-   ```bash
-   git clone https://github.com/username/rickandmortyapp.git
-   ```
-
-2. Buka proyek dengan Android Studio.
-
-3. Sinkronkan dependensi:
-   ```bash
-   ./gradlew build
-   ```
-
-4. Jalankan aplikasi di emulator atau perangkat fisik.
-
 ## Struktur Proyek
 
 ```plaintext
